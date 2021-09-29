@@ -1,7 +1,6 @@
 # Tugas Programming 7
  
-Untuk file project saya upload di Gdrive ya kak, berikut link Gdrive saya lampirkan
-
-https://drive.google.com/drive/folders/1bNE77McxoO0U--Y8mo-v-yJAyBxMfLNW?usp=sharing
-
+untuk file project saya upload di release kak, karena ukuran file lebih dari 100mb.
+saya sudah mencoba upload dengan menggunakan git bash dan git lfs tetapi tetap terkena limit.
+ 
 Terimakasih.
